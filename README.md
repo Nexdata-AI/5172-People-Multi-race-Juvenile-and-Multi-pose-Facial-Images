@@ -3,7 +3,7 @@
 ## Description
 5,172 People - Multi-race Juvenile and Multi-pose Facial Images. This data includes black people, Caucasian people and brown people. Each subject was collected 10 images. (The 10 images include 10 photos in different lighting, different face poses and different collection environments). This data can be used for face recognition related tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1068?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1168?source=Github
 
 
 ## Data size
@@ -23,6 +23,6 @@ cellphone
 ## Data format
 the image data format is .jpg
 ## Annotation accuracy
-the accuracy of labels of face pose, race(country), gender, year and month of birth, collection year are
+the accuracy of labels of face pose, race(country), gender, year and month of birth, collection year are more than 97%
 # Licensing Information
 Commercial License
